@@ -1,0 +1,4 @@
+C:\Users\perry\OneDrive\Desktop\Space Game 3\Space Game\Space Game\obj\Debug\netcoreapp3.1\Space Game.csprojAssemblyReference.cache
+C:\Users\perry\OneDrive\Desktop\Space Game 3\Space Game\Space Game\obj\Debug\netcoreapp3.1\Space Game.AssemblyInfoInputs.cache
+C:\Users\perry\OneDrive\Desktop\Space Game 3\Space Game\Space Game\obj\Debug\netcoreapp3.1\Space Game.AssemblyInfo.cs
+C:\Users\perry\OneDrive\Desktop\Space Game 3\Space Game\Space Game\obj\Debug\netcoreapp3.1\Space Game.csproj.CoreCompileInputs.cache
